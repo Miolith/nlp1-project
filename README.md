@@ -1,3 +1,8 @@
 # nlp1-project
 
-Tout le projet est contenu dans le fichier `project.ipynb`
+Les participants au projet sont :
+- Nelson VICEL--FARAH
+- Karen KASPAR
+- Romain BRAND
+
+Chaque lab a un jupyter notebook qui lui est associé.
